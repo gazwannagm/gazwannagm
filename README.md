@@ -5,13 +5,13 @@
 <h3 align="center">A passionate Backend developer from Iraq</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gazwannagm&label=Profile%20views&color=0e75b6&style=flat" alt="gazwannagm" /> </p>
-
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/deiwqu3r2/image/upload/v1657244775/programmer_fhhcuz.gif">
 
 
 - 🔭 I’m currently working on **small project's**
 
 - 🌱 I’m currently learning **New Skills**
-  <img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/deiwqu3r2/image/upload/v1657244775/programmer_fhhcuz.gif">
+  
 - 👯 I’m looking to collaborate on **Big Project's**
 
 - 🤝 I’m looking for help with **CuneiCode**
