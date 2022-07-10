@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/deiwqu3r2/image/upload/v1657247392/be832922391491.58c25558f0fe7_oczx6o.gif)](https://rishavchanda.io)
+[![MasterHead](https://res.cloudinary.com/deiwqu3r2/image/upload/v1657450368/2n81chytk3vnd4na6q61_mxsqjp.gif)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Gazwan Nagm</h1>
 <hr style="height:1px">
