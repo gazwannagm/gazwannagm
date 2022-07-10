@@ -2,7 +2,6 @@
 <img align="center" alt="this is me " src="https://res.cloudinary.com/deiwqu3r2/image/upload/v1657450368/2n81chytk3vnd4na6q61_mxsqjp.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Gazwan Nagm</h1>
-<hr style="height:1px">
 <h3 align="center">A passionate Backend developer from Iraq</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gazwannagm&label=Profile%20views&color=0e75b6&style=flat" alt="gazwannagm" /> </p>
